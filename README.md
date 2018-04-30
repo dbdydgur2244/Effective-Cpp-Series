@@ -1,3 +1,3 @@
 # Effective-Cpp-Series
 
-이펙티브 C++ 공부한 것들 정리한 repo입니다.
+effective cpp series를 비롯한 cpp 공부한 내용 정리한 저장소입니다.
